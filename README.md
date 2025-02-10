@@ -21,5 +21,5 @@ Tired of expensive APIs? This Streamlit-based application is a powerful, free, a
 
 Ideal for researchers, students, and professionals seeking an open-source solution for interactive document analysis.
 
-### Environment
+## Environment
 The project was developed using Visual Studio Code 1.97 with Python 3.9.21
